@@ -1,0 +1,13 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+log/
+*.user
+*.suo
+*.vbw
+*.scc
+*.pfx
+*.p12
+*.snk
+*.exe
+*.msi
